@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langgraph
+mcp
+pandas
+pytest
+python-dotenv
